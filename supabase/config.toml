@@ -1,0 +1,4 @@
+project_id = "uehtqmcjewwnhxiufsgw"
+
+[functions.sante-assistant]
+verify_jwt = true

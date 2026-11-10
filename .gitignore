@@ -1,0 +1,29 @@
+.DS_Store
+DerivedData/
+**/xcuserdata/
+*.xcuserstate
+supabase/functions/.env
+
+# Pastas de build locais
+.build/
+.build-cache/
+.build-derived/
+build/
+
+# Cópias de segurança locais
+sante/_backup/
+*.orig
+
+# Segredos (nunca devem ir para o GitHub)
+.env
+*.env
+
+# Cópias antigas dentro da pasta do app
+sante/sante.xcodeproj/
+sante/supabase/
+sante/README.md
+sante/.gitignore
+
+# Imagens de referência (só para uso local)
+welcome-parallax-*.svg
+sante/ContentView.png
